@@ -1,4 +1,4 @@
-// ChatGPT provided this code.
+# ChatGPT provided this code.
 import json
 import os
 
